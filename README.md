@@ -1,0 +1,1 @@
+# Leitor_QR_Desktop
